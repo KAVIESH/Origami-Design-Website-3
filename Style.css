@@ -1,0 +1,34 @@
+h1{
+    color: white;
+    text-align: center; 
+}
+p{
+    color: darkblue;
+    text-align: center; 
+}
+li{
+    color: darkgreen;
+    font-style: oblique;
+}
+
+hr{
+    color: 0;
+}
+.header{
+    background-color: palevioletred;
+    text-align: center;
+}
+
+.bodyimg h3{
+    color:#00ff00;
+    font-size: 30p;
+    width: 1600;
+  
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
